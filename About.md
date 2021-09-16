@@ -1,0 +1,13 @@
+⚔ About Gallant Token
+Gallant Token is a Gallant Token is a blockchain gaming utility token with a community of people from across the world. 
+Centralized around a medieval-inspired theme with a helmet as our logo, we are suited up and ready to usher in a new era of blockchain gaming.
+We are a fully doxxed team focused on creating games that integrate blockchain technology across different platforms.
+Our Smart Contract is deployed on the Binance Smart Chain and utilizes tokenomics with functions in the contract that allow us to modify them based on the market and needs for
+the project. The taxes can never go above 15% as it is hard coded. The uses of the 3 tax areas are as follows:
+  1) Marketing- This tax will never go above 10%: it uses a swap and liquify function to add BNB directly to the Marketing Wallet
+  2) Liquidity- This tax as well can never be set above 10% and will only be used when Liquidity needs to be adjusted based on the market.
+  3) Reflections- This tax is set at 3% and will remain that way. We like to reward our diligent holders, so that on buy/sell transactions, that percentage is sent in GAL to the        holders.
+
+Gallant Token LLC is a company registered that was created to back the token and give it the support needed to accomplish the milestones set in our roadmap.
+Our smart contract is custom and was audited through Solid Proof. The report can be viewed in the PDF file.
+The Dev team also went through an extensive KYC audit to provide transparency and give community members a portion of security that we are here for the long term.

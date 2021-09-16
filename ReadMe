@@ -8,7 +8,7 @@ The use of the 3 tax areas are as follows:
 
   1) Marketing- This tax can never go above 10%: it uses a swap and liquify function to add BNB directly to the Marketing Wallet
   2) Liquidity- This tax can never go above 10%: and will only be used when Liquidity needs to be adjusted based on the market.
-  3) Reflections- This tax is set at 3%. We like to reward our olders, so that on buy/sell transactions, that percentage is sent in GAL to the holders.
+  3) Reflections- This tax is set at 3%. GAL tokens, on buy/sell transactions, are sent directly to the holders.
 
 Gallant Token LLC is a company registered that was created to back the token and give it the support needed to accomplish the milestones set in our roadmap.
 Our smart contract is custom and was audited through Solid Proof. The report can be viewed in the PDF file.
